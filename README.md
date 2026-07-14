@@ -47,4 +47,3 @@ A small **Tkinter**‑based graphical user interface that collects basic user in
 Only the Python standard library is required. No external packages need to be installed.
 
 ---
-*Created with ❤️ by Antigravity – your AI coding assistant*
